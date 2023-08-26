@@ -19,4 +19,5 @@ My focus lies in creating dynamic and robust backend systems using PHP. I strive
 I possess a strong command over database management, working with systems such as MySQL and Oracle Database, ensuring efficient and secure data storage and retrieval.
 
 ## Connect 
-Thank you for visiting my GitHub profile. Let's embark on a journey of coding excellence together. If you're interested in collaboration or have any questions, feel free to connect with me at shreya.adak482@gmail.com.visit mine linkedin profile:https://www.linkedin.com/in/shreya-adak-148663211
+Thank you for visiting my GitHub profile. Let's embark on a journey of coding excellence together. If you're interested in collaboration or have any questions, feel free to connect with me at shreya.adak482@gmail.com.
+visit mine linkedin profile:https://www.linkedin.com/in/shreya-adak-148663211
