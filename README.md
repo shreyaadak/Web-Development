@@ -1,6 +1,6 @@
 #  Web Development
 
-Greetings! I am Shreya Adak, a dedicated and passionate web developer with a profound commitment to creating exceptional digital experiences. My journey in the realm of web development has been marked by a wide array of hands-on projects, showcasing my expertise and unwavering enthusiasm.
+ I am Shreya Adak, a dedicated and passionate web developer with a profound commitment to creating exceptional digital experiences. My journey in the realm of web development has been marked by a wide array of hands-on projects, showcasing my expertise and unwavering enthusiasm.
 
 ## Technical Proficiency
 
